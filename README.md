@@ -16,6 +16,9 @@ Mapped to airports using ISD history dataset
 Records: 79,000 (daily summaries)
 Features: Temperature, visibility, precipitation, wind gust, etc.
 
+Final dataset uploaded:
+https://drive.google.com/drive/folders/1TMAxjkM6HJXUq2FgLpeZ49Qzu1p3LZfK?usp=drive_link
+
 Preprocessing Steps:
 --------------------
 Dropped irrelevant and leaky columns (e.g., actual arrival time, wheels-off)
