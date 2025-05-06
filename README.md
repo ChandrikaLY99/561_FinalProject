@@ -31,11 +31,6 @@ Scaling: StandardScaler applied to numeric features (for linear models only)
 
 We trained and evaluated multiple classifiers, including:
 ------------------
-Logistic Regression
-Decision Trees
-XGBoost
-Naive Bayes
-Random Forest
-
-XGBoost gave the best performance
+Logistic Regression, Decision Trees, XGBoost, Naive Bayes, Random Forest
+Amongst all the models, XGBoost gave the best performance
 
